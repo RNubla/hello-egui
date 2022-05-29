@@ -9,6 +9,13 @@ The goal is for this to be the simplest way to get started writing a GUI app in 
 
 You can compile your app natively or for the web, and share it using Github Pages.
 
+MacOS
+
+```sh
+brew install jq
+brew install binaryen
+```
+
 ## Getting started
 
 Start by clicking "Use this template" at https://github.com/emilk/eframe_template/ or follow [these instructions](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
