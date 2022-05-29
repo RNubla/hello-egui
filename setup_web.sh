@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -eu
+set -us
 
 # Pre-requisites:
 rustup target add wasm32-unknown-unknown
